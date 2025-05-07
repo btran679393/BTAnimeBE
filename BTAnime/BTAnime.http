@@ -1,0 +1,6 @@
+@BTAnime_HostAddress = http://localhost:5274
+
+GET {{BTAnime_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
